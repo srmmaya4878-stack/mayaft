@@ -1,2 +1,0 @@
-# mayaft
-self learning 
