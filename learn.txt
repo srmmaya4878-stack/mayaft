@@ -1,0 +1,4 @@
+insert - git clone amd then link
+add - git add - staging area 
+commit- git commit -m "something " 
+push - git push origin main 
